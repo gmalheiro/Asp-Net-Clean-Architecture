@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
-using GloboTicket.TicketManagement.Applicati.Contracts.Features.Events;
+using GloboTicket.TicketManagement.Applicati.Contracts.Features.Events.Queries.GetEventDetail;
+using GloboTicket.TicketManagement.Applicati.Contracts.Features.Events.Queries.GetEventsList;
 using GloboTicket.TicketManagement.Domain.Entities;
 using System;
 using System.Collections.Generic;
