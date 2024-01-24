@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TicketManagement.Applicati.Contracts.Features.Events
+namespace GloboTicket.TicketManagement.Applicati.Contracts.Features.Events.Queries.GetEventsList
 {
     public class GetEventsListQuery : IRequest<List<EventListVm>>
     {
