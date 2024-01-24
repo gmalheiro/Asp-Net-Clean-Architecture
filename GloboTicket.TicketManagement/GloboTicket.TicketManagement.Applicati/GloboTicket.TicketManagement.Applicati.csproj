@@ -17,7 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Contracts\Features\Categories\Commands\" />
+    <Folder Include="Contracts\Features\Categories\Queries\GetCategoriesListWithEvents\" />
     <Folder Include="Contracts\Features\Events\Commands\CreateEvent\" />
+    <Folder Include="Contracts\Features\Orders\Commands\" />
+    <Folder Include="Contracts\Features\Orders\Queries\" />
   </ItemGroup>
 
 </Project>
