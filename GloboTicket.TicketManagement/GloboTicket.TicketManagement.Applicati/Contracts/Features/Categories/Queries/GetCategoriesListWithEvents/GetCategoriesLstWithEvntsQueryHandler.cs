@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TicketManagement.Application.Features.Categories.Queries.GetCategoriesListWithEvents
+namespace GloboTicket.TicketManagement.Applicati.Features.Categories.Queries.GetCategoriesListWithEvents
 {
     public class GetCategoriesLstWithEvntsQueryHandler : IRequestHandler<GetCategoriesListWithEventsQuery, List<CategoryEventListVm>>
     {
