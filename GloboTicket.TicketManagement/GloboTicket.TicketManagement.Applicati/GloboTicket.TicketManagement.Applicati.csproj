@@ -19,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\Features\Categories\Commands\" />
     <Folder Include="Contracts\Features\Orders\Commands\" />
     <Folder Include="Contracts\Features\Orders\Queries\" />
   </ItemGroup>
