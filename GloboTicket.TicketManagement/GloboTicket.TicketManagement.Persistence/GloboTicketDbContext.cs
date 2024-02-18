@@ -10,6 +10,8 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
+using GloboTicket.TicketManagement.Applicati.Contracts.Infrastructure;
+using GloboTicket.TicketManagement.Applicati.Models.Mail;
 
 namespace GloboTicket.TicketManagement.Persistence
 {
