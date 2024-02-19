@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagemen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Persistence", "GloboTicket.TicketManagement.Persistence\GloboTicket.TicketManagement.Persistence.csproj", "{BDB8A902-9F2A-40D2-ABCF-7286033A785C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Infrastructu", "GloboTicket.TicketManagement.Infrastructu\GloboTicket.TicketManagement.Infrastructu.csproj", "{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Infrastructu", "GloboTicket.TicketManagement.Infrastructu\GloboTicket.TicketManagement.Infrastructu.csproj", "{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Api", "GloboTicket.TicketManagement.Api\GloboTicket.TicketManagement.Api.csproj", "{8FC0A5F0-1D96-4746-851B-E866D11FFCAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC0A5F0-1D96-4746-851B-E866D11FFCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC0A5F0-1D96-4746-851B-E866D11FFCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC0A5F0-1D96-4746-851B-E866D11FFCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC0A5F0-1D96-4746-851B-E866D11FFCAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{4BC7B2ED-B4D7-4F00-A287-AC6E97659D02} = {D5F8F81A-2D25-4A72-9EFE-E68E67F74D57}
 		{BDB8A902-9F2A-40D2-ABCF-7286033A785C} = {75EA1700-771D-4690-963A-A96BD11E05C2}
 		{D5A7F118-2DAC-4E05-A9E8-877A1EEA3362} = {75EA1700-771D-4690-963A-A96BD11E05C2}
+		{8FC0A5F0-1D96-4746-851B-E866D11FFCAA} = {A3A496FA-3BA9-454D-8DEE-9C4BBE874C97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DD155C6E-C43D-4A2A-81C9-83D1A052FC6C}
